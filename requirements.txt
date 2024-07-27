@@ -1,3 +1,3 @@
-langchain_core.messages
+
 streamlit
 langchain_google_genai
